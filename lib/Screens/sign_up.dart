@@ -47,7 +47,7 @@ class SignUpScreen extends StatelessWidget {
                       {
                         ScaffoldMessenger.of(context).showSnackBar(
                           SnackBar(
-                            content: Text("Error"),
+                            content: Text("Errorrrr"),
                           ),
                         );
                       }
